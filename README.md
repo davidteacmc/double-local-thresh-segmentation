@@ -5,4 +5,4 @@ This is the source code of double local thresholding algorithmfor trawl-based un
 
 For details of the algorithm, please refer to the following paper:
 
-M.-C. Chuang, J.-N. Hwang, K. Williams and R. Towler, "Automatic fish segmentation via double local thresholding for trawl-based underwater camera systems," IEEE Intl. Conf. on Image Processing (ICIP), 2011.
+M.-C. Chuang, J.-N. Hwang, K. Williams and R. Towler, "Automatic Fish Segmentation via Double Local Thresholding for Trawl-Based Underwater Camera Systems," ICIP 2011.
